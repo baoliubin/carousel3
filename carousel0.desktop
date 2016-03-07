@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=carousel0
+Exec=qmlscene $@ Main.qml
+Icon=carousel0.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
